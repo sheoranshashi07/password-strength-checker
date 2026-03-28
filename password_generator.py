@@ -13,6 +13,6 @@ def generate_password(length):
     return password
 
 
-length = int(input("Enter password length: "))
+length = int(input("Enter desired password length: "))
 
 print("Generated Password:", generate_password(length))
