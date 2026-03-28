@@ -1,5 +1,3 @@
-# password-strength-checker
-
 # Password Strength Checker using Python
 
 ## Introduction
