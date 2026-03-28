@@ -27,7 +27,7 @@ Libraries used:
 
 ## Project Structure
 
-password-strength-checker-python/
+password-strength-checker/
 
 password_checker.py – evaluates password strength  
 password_generator.py – generates secure passwords  
@@ -38,3 +38,30 @@ README.md – documentation of the project
 
 1. Download or clone this repository.
 2. Run the password strength checker program.
+3. To generate a secure password: python
+   password_checker.py
+
+## Example
+
+Input: hello123
+Output: Moderate Password
+
+## Learning Outcomes
+
+While working on this project, I learned:
+
+- How to structure a Python project
+- How to use functions and modules
+- How password security works
+- How to use regular expressions for pattern detection
+
+## Future Improvements
+
+This project can be improved by adding:
+
+- A graphical user interface
+- Integration with password managers
+- Real-time password strength feedback
+
+
+   
