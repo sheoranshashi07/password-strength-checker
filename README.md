@@ -41,10 +41,24 @@ README.md – documentation of the project
 3. To generate a secure password: python
    password_checker.py
 
-## Example
+## Example Program Execution
 
-Input: hello123                                                                                                                  
-Output: Moderate Password
+Password Strength Checker:
+
+Input:
+MyPass123
+
+Output:
+Moderate Password
+
+
+Password Generator:
+
+Input:
+Password length = 12
+
+Output:
+aP7#dL9@xT3q
 
 ## Learning Outcomes
 
