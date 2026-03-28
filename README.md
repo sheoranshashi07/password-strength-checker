@@ -43,7 +43,7 @@ README.md – documentation of the project
 
 ## Example
 
-Input: hello123
+Input: hello123                                                                                                                  
 Output: Moderate Password
 
 ## Learning Outcomes
